@@ -19,7 +19,7 @@ export default function WebinarSection() {
 
           {/* Description */}
           <p className="text-gray-700 mb-8">
-            Get 'The Guide' now and enjoy a special one-month free access to our
+            Get The Guide now and enjoy a special one-month free access to our
             upcoming AI-scoring platform with over 5000 test questions. Act fast
             – this offer expires in{" "}
             <span className="font-semibold">[Countdown Timer]</span>
